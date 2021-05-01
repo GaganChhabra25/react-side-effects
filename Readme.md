@@ -31,3 +31,6 @@ useEffect(() => {
 
 1. This will be called whenever there is change in state dependency named : name and age 
 
+# Separate Input Component :
+
+https://github.com/academind/react-complete-guide-code/tree/10-side-effects-reducers-context-api/code
